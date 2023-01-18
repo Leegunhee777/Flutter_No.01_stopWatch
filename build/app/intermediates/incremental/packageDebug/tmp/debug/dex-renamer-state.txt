@@ -1,0 +1,4 @@
+#Thu Jan 19 01:42:29 KST 2023
+base.0=/Users/leegunhee/Desktop/flutterProj/2023-01-09-stopwatch/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
